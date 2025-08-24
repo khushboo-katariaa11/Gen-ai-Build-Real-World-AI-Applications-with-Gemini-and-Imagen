@@ -1,0 +1,8 @@
+to run:
+/usr/bin/python3 /genai.py
+
+
+.env:
+export GOOGLE_CLOUD_PROJECT=
+export GOOGLE_CLOUD_LOCATION=
+export GOOGLE_GENAI_USE_VERTEXAI=True
